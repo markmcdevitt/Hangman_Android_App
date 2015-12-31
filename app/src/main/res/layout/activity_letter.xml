@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TextView
+
+xmlns:android="http://schemas.android.com/apk/res/android"
+android:textAppearance="?android:attr/textAppearanceMedium"
+android:text="_"
+android:layout_width="fill_parent"
+android:layout_height="fill_parent"
+android:gravity="center"
+android:id="@+id/textView3"
+android:padding="5dp"
+android:textSize="40dp"
+android:textAlignment="center"
+android:layout_centerHorizontal="true"
+android:layout_centerVertical="true"/>
+
